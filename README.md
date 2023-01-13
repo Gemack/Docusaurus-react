@@ -4,6 +4,12 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ### Installation
 
-'''
-clone this repo
-'''
+
+ ### after cloning this repo 
+ 
+ ```
+ $cd into directory
+ 
+ 
+ ```
+ 
